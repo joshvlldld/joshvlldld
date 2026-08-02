@@ -4,9 +4,9 @@ DevOps Practitioner passionate about building reliable, automated, and maintaina
 
 This GitHub showcases my personal projects, experiments, and infrastructure implementations as I continue exploring modern DevOps practices.
  
-- **Containers** -- Docker, Docker Compose, multi-environment deployments
-- **Networking & Ingress** -- Traefik, Caddy, Cloudflare tunnel
-- - **Infrastructure** — AWS EC2, Linux administration, Docker, networking
+- **Containers** — Docker, Docker Compose, multi-environment deployments
+- **Networking & Ingress** — Traefik, Caddy, Cloudflare tunnel
+- **Infrastructure** — AWS EC2, Linux administration, Docker, networking
 
 ### Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
